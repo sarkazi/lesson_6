@@ -256,7 +256,6 @@ body {
 }
 
 .article__link {
-   background-color: none;
    outline: 1px dotted black;
    margin: 0 0 30px auto;
    color: rgb(3, 3, 3);
